@@ -1,0 +1,6 @@
+{
+  "name": "Matemática Divertida",
+  "description": "Portal de matemática com aulas, exercícios, exames resolvidos e jogos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
